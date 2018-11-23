@@ -1,0 +1,57 @@
+certcredprovider.dll.mui 		Malware/Backdoor 	Roland RAT
+underwears.png 					Malware/Backdoor 	Remy RAT
+wpfgfx_v0300.dll 				Malware/Backdoor 	Splinter RAT
+plugin.lst 						Malware/Infostealer CamCapture plugin
+user.ico 						Malware/Backdoor 	Obfuscated CobaltStrike Beacon
+img.png 						Malware/Backdoor 	Obfuscated named pipe backdoor (from CobaltStrike)
+mobsync.exe						Malware/Backdoor 	Rizzo
+varies 							Malware/Backdoor 	Denis
+
+https://ruxcon.org.au/assets/2017/slides/RuxCon17-Attacker-Antics.pdf //More about Komprogo persistance malware
+
+https://gist.github.com/Te-k/df742acd50fd5d176f44040d45646e82 //ActiveMime indetify strings
+
+https://otx.alienvault.com/pulse/5918daead565c20aa501cc2f //More about detection
+
+https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/blob/master/playbooks/groups/APT32.md //Info
+
+https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI //Powershell script
+
+https://attack.mitre.org/groups/G0050/ //APT32 Mitre link.
+
+https://ruxcon.org.au/assets/2017/slides/bart-RuxCon-Presentation.pptx //About Komprogo and Soundbite
+
+https://cloud.tencent.com/developer/article/1044690 //Chineese informative article/1044690
+
+https://github.com/ytisf/theZoo/tree/master/malwares/Binaries/Win32.APT32.Windshield //WINDSHEILD sample
+
+https://malpedia.caad.fkie.fraunhofer.de/actor/apt32 //informative
+
+https://www.first.org/resources/papers/conf2018/Inglot-Bartosz-and-Wong-Vincent_FIRST_20180606.pdf //Soundbite analysis and indicators
+
+https://www.youtube.com/watch?v=kuZ6QKpAX0c //Youtube video for quick intro.
+
+https://blog.xpnsec.com/apt32-phishing-malware/
+
+====================== TTPs ===============================================================================================================
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/
+
+https://www.cybereason.com/blog/operation-cobalt-kitty-apt
+
+https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/
+
+https://www.virustotal.com/en/file/8d28f996c044ca7ac39b35406964adf48d6f00d6a1551e3ce111866001a54571/analysis/
+
+https://exchange.xforce.ibmcloud.com/collection/ded6e67d95012c24dbc93dc688a4dde6
+
+https://blog.xpnsec.com/apt32-phishing-malware/
+
+https://community.riskiq.com/projects/42250d7f-bc13-ff5d-bbfb-73781ad0571d?utm_campaign=rr_oceanlotus&utm_source=blog&utm_medium=social_media&utm_content=oceanlotus_project&_ga=2.46589863.1824579277.1542539164-970762974.1542539164
+
+http://contagiodump.blogspot.com/  *******************
+
+https://malpedia.caad.fkie.fraunhofer.de/actor/apt32
+
+
+

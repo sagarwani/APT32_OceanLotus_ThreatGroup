@@ -1,0 +1,143 @@
+Downloaded Malwares - APT32
+-------------------
+
+hgfs.dll
+md5: d1e614479fee318904442c16c5ef4877
+SHA256: 29bdd6341d59caa70a9e9f6229f7d4c2603d2ba333bc4573cf8c0faabe0f16af
+Number of sourcces: 5 
+Timestamp: 5407928 
+First Seen on: 9/1/14 11:43 
+Parent: 5/23/17 0:43 
+Related to: ef68cfad4cdae58624d12ff97ae00e68aafae9e6f33f3bd23dffc37869a1e578
+
+7zS.sfx.exe
+md5: 3bd041ef488806c55fbc40b4af24eabb
+SHA256: 66f7850c039cd85acdcb9a68674ec7422f9ab6edc89d95fb877562ca26d71d52
+Number of sourcces: 5 
+Timestamp: 1709568 
+First Seen on: 2/12/06 8:11
+Parent: 7/9/17 17:13
+C2 Servers: png.eirahrlichmann.com engine.lanaurmi.
+com, movies.onaldest.com (89.34.237.142),
+images.andychroeder.com (89.34.237.142)
+
+GoogleUpdateSetup.exe
+md5: 42123d2493598c9ac9803fe1b92ed032
+SHA256: 969d97e3fe95de96971a65de02d2bf7fb7d81cbbda24dd47c3c1ffcf81bbcee3
+Number of sourcces: 5 
+Timestamp: 2511360 
+First Seen on: 2/12/06 8:11
+Parent: 6/1/17 4:50
+Hosted At: http[:]//template.ethanypin[.]com/KoreanTimesSSK.ttf
+C2 Servers: png.eirahrlichmann.com, engine.lanaurmi.
+com, movies.onaldest.com (89.34.237.142),
+images.andychroeder.com (89.34.237.142)
+
+
+ep7res01.dll
+md5: 1f8ade068ba6fbfe8605e0946bf2d79f
+SHA256: c2f5ee2b99b2160178e947099d54cea940c21911997246938d274e9c6a834bc8
+Number of sourcces: 5 
+Timestamp: 94720 
+First Seen on: 10/20/10 20:09
+Parent: 5/23/17 0:43
+Related to: ef68cfad4cdae58624d12ff97ae00e68aafae9e6f33f3bd23dffc37869a1e578
+
+GoogleUpdateSetup.exe
+md5: bc1ccc120d185a0c36b191ec6b74397c
+SHA256: c4d4169dc85ad57168b1efabdd32cb67a76c27ce1fb615685505b378ee345a3f
+Number of sourcces: 5 
+Timestamp: 2508288 
+First Seen on: 1/24/08 7:47
+Parent: 8/2/17 21:49
+C2 Servers: png.eirahrlichmann.com, engine.lanaurmi.
+com, movies.onaldest.com (89.34.237.142),
+images.andychroeder.com (89.34.237.142)
+
+2017 Statistical Report on Staff Salary and Allowances
+md5: 5458a2e4d784abb1a1127263bd5006b5
+SHA256: c161134bf3330c82eb0278fe54b2975c26301bdfdc4fc35d5344f9becf5574c7
+File Size: 212546 bytes
+File Type: MIME/DOC/VBA
+Purpose: Downloader
+First Seen on: 3/2/17 7:01
+
+Thong tin.doc
+md5: ce50e544430e7265a45fab5a1f31e529
+SHA256: 1210384a9d0ca2e089efab14f2e9f6d55a3824031c1e589b96f854fb96411288
+File Size: 79639 bytes
+File Type: MIME/DOC/VBA
+Purpose: Downloader
+First Seen on: 1/17/17 10:21
+
+FlashUpdate.app
+md5: 9831a7bfcf595351206a2ea5679fa65e
+SHA256: 12f941f43b5aba416cbccabf71bce2488a7e642b90a3a1cb0e4c75525abb2888
+File Size: 38324 bytes
+File Type: Mach-O
+Purpose: MacOS backdoor
+First Seen on: 9/28/15 9:26
+
+Noi dung chi tiet
+md5: d802aa9938e87dc33cf2c7a07e920b0b
+SHA256: 07154b7a45937f2f5a2cda5b701504b179d0304fc653edb2d0672f54796c35f7
+File Size: 96708 bytes
+File Type: Mach-O
+Purpose: MacOS backdoor
+First Seen on: 8/16/16 10:01
+
+mdnsNSP.exe
+md5: facec411b6d6aa23ff80d1366633ea7a
+SHA256: 155b13e582adeab564c60a1091b4dccc43ed78db290aa3e2da7e8bc1e039770c
+Number of sourcces: 8
+Timestamp: 178688 
+First Seen on: 12/26/13 12:19
+Parent: 3/10/17 22:48
+C2 Servers: z.vieweva.com, z.notificeva.com,
+z.tulationeva.com, z.teriava.com
+Description: Creates service (UPnP Device Hostz/upnphostz) c:\Program Files\CMAK\Support\en-US\msprivs.exe /k wcssvc
+Active URL: http://schemas.microsoft.com/SMI/2005/WindowsSettings
+File size 174.5 KB ( 178688 bytes )
+File type Win32 EXE
+Magic literalPE32 executable for MS Windows (GUI) Intel 80386 32-bit
+TrID	Win32 Executable MS Visual C++ (generic) (41.0%)
+Win64 Executable (generic) (36.3%)
+Win32 Dynamic Link Library (generic) (8.6%)
+Win32 Executable (generic) (5.9%)
+OS/2 Executable (generic) (2.6%)
+
+mscorsvw.exe
+md5: 5421781c2c05e64ef20be54e2ee32e37
+SHA256: bb5114227ab5bb2e6bde5bcd876e437f72998ee88d27f7cbb15828c82666bef1
+Number of sourcces: 8
+Timestamp: 209920 
+First Seen on: 12/21/15 2:35
+Parent: 3/8/17 17:01
+C2 Servers: z.notificeva.com, z.tulationeva.com,
+z.teriava.com, z.vieweva.com
+Description: Creates service (UPnP Device Hosts/upnphosts) C:\Windows\2be7b099\WerFault.exe /k wcssvc
+
+SwUSB.exe
+md5: 018433e8e815d9d2065e57b759202edc
+SHA256: 12c2c3566c29f80478277e0f96b79fc85b9e86ebf16505d8f2d7877a6204f860
+Number of sourcces: 8
+Timestamp: 201216 
+First Seen on: 4/26/12 20:04
+Parent: 3/1/17 16:35
+C2 Servers: z.gl-appspot.org
+Description: Creates Mutex (8633f77ce68d3a4ce13b3654701d2daf_%USERNAME%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
